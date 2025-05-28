@@ -19,6 +19,7 @@ body{
     height: 50px;
     margin: 0;
     padding: 0;
+    text-decoration: none;
 
     h4{
         float: right;
